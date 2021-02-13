@@ -1,2 +1,2 @@
-# Projeto_ssr_next_RecodePro
- projeto ssr realizado pelo curso da recodepro 
+# Projeto_SSR_NEXT_Recode_Pro
+ Projeto do curso de Server-side rendering (SSR) da recode Pro
